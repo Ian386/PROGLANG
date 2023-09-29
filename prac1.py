@@ -1,3 +1,7 @@
+#name - IAN NDOLO MWAU 
+#REG NO - SCT211-0034/2022
+# A simple calculator to add two numbers
+
 def calc(a, b):
     var = input("Enter the operation: ")
     if var == "a":
