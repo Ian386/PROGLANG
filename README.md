@@ -1,2 +1,2 @@
-# aitum
-oop 2 projects
+# IAN NDOLO MWAU
+programming languages projects
